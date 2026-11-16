@@ -39,6 +39,11 @@ nav {
     
 
 }
+
+.boutons :hover {
+    background-color: #a9c4d0;
+}
+
 .hero {
     position: relative;
     height: 100vh;
